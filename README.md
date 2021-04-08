@@ -7,11 +7,14 @@ CGPNX database is one thematic database which contains 1,567 patients who were d
 
 Pneumothorax cases collected in six branches of Chang Gung Memorial Hospital between 2015 and 2019 will be reviewed. Pneumothorax diagnosis was determined mainly by chest X-ray report from radiologists adjuvant with other clinical evidence. Through the clinical procedure, patients with chest pain usually took their first X-ray image. If he/she was confirmed to be pneumothorax cases, further chest tube placing was carried out. Here, we specifically selected the first image before any tube was placed. Images with chest tub were all excluded from this database. Finally, there were 1,567 pneumothorax patients included in this database.
 
-![image](picture or gif url)
+![image](https://github.com/imfuji/Chang-Gung-Pneumothorax-CGPNX-Database/blob/main/flow%20chart.png)
 
 # Data Description
 
 CGPNX database is a relational database consisting of EHR, radiology images, and radiograph reports. EHR data were all recorded by medical encounter. 
+
+![image](https://github.com/imfuji/Chang-Gung-Pneumothorax-CGPNX-Database/blob/main/demography.png)
+
 
 # Variables Characteristic
 
@@ -20,6 +23,8 @@ The CGPNX database contains a variety of clinical information which could be use
 	Demographics (such as Idcode, age, Sex, Study date...)
 	Imaging parameters (KVP, Windows level, windows width.)
 Example image from patients with or without pneumothorax
+
+![image](https://github.com/imfuji/Chang-Gung-Pneumothorax-CGPNX-Database/blob/main/pneunothorax%20example.png)
 
 # Requesting Datasets
 
